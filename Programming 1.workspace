@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Programming 1" Database="">
+  <Project Name="Exercise3" Path="Exercise3/Exercise3.project" Active="No"/>
+  <Project Name="Exercise4" Path="Exercise4/Exercise4.project" Active="No"/>
+  <Project Name="Hour5" Path="Module3/Module3.project" Active="No"/>
+  <Project Name="Hour6" Path="Hour6/Hour6.project" Active="No"/>
+  <Project Name="Hour7" Path="Hour7/Hour7.project" Active="No"/>
+  <Project Name="Hour10" Path="Hour10/Hour10.project" Active="Yes"/>
+  <Project Name="Quiz" Path="Quiz/Quiz.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Exercise3" ConfigName="Debug"/>
+      <Project Name="Exercise4" ConfigName="Debug"/>
+      <Project Name="Hour5" ConfigName="Debug"/>
+      <Project Name="Hour6" ConfigName="Debug"/>
+      <Project Name="Hour7" ConfigName="Debug"/>
+      <Project Name="Hour10" ConfigName="Debug"/>
+      <Project Name="Quiz" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Exercise3" ConfigName="Release"/>
+      <Project Name="Exercise4" ConfigName="Release"/>
+      <Project Name="Hour5" ConfigName="Release"/>
+      <Project Name="Hour6" ConfigName="Release"/>
+      <Project Name="Hour7" ConfigName="Release"/>
+      <Project Name="Hour10" ConfigName="Release"/>
+      <Project Name="Quiz" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
