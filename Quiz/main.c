@@ -10,5 +10,12 @@ for (int i=2; i<10; i++){
   x += i;
 }
 printf("%d\n", x);
+
+int z = 10;
+int *ptr_int;
+ptr_int = &z;
+*ptr_int = 456;
+
+printf("%d", z);
 	
 }

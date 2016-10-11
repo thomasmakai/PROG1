@@ -8,7 +8,10 @@
   <Project Name="Hour10" Path="Hour10/Hour10.project" Active="No"/>
   <Project Name="Quiz" Path="Quiz/Quiz.project" Active="No"/>
   <Project Name="Hour8" Path="Hour8/Hour8.project" Active="No"/>
-  <Project Name="Hour9" Path="Hour9/Hour9.project" Active="Yes"/>
+  <Project Name="Hour9" Path="Hour9/Hour9.project" Active="No"/>
+  <Project Name="Hour11" Path="Hour11/Hour11.project" Active="No"/>
+  <Project Name="Hour12" Path="Hour12/Hour12.project" Active="No"/>
+  <Project Name="Hour13" Path="Hour13/Hour13.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -21,6 +24,9 @@
       <Project Name="Quiz" ConfigName="Debug"/>
       <Project Name="Hour8" ConfigName="Debug"/>
       <Project Name="Hour9" ConfigName="Debug"/>
+      <Project Name="Hour11" ConfigName="Debug"/>
+      <Project Name="Hour12" ConfigName="Debug"/>
+      <Project Name="Hour13" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -33,6 +39,9 @@
       <Project Name="Quiz" ConfigName="Release"/>
       <Project Name="Hour8" ConfigName="Release"/>
       <Project Name="Hour9" ConfigName="Release"/>
+      <Project Name="Hour11" ConfigName="Release"/>
+      <Project Name="Hour12" ConfigName="Release"/>
+      <Project Name="Hour13" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
