@@ -22,7 +22,9 @@
   <Project Name="Hour19_Q2" Path="Hour19_Q2/Hour19_Q2.project" Active="No"/>
   <Project Name="Hour20_Q1" Path="Hour20_Q1/Hour20_Q1.project" Active="No"/>
   <Project Name="Hour20_Q2" Path="Hour20_Q2/Hour20_Q2.project" Active="No"/>
-  <Project Name="CommandLineInput" Path="CommandLineInput/CommandLineInput.project" Active="Yes"/>
+  <Project Name="CommandLineInput" Path="CommandLineInput/CommandLineInput.project" Active="No"/>
+  <Project Name="Hour21" Path="Hour21/Hour21.project" Active="Yes"/>
+  <Project Name="Hour22" Path="Hour22/Hour22.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -49,6 +51,8 @@
       <Project Name="Hour20_Q1" ConfigName="Debug"/>
       <Project Name="Hour20_Q2" ConfigName="Debug"/>
       <Project Name="CommandLineInput" ConfigName="Debug"/>
+      <Project Name="Hour21" ConfigName="Debug"/>
+      <Project Name="Hour22" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -75,6 +79,8 @@
       <Project Name="Hour20_Q1" ConfigName="Release"/>
       <Project Name="Hour20_Q2" ConfigName="Release"/>
       <Project Name="CommandLineInput" ConfigName="Release"/>
+      <Project Name="Hour21" ConfigName="Release"/>
+      <Project Name="Hour22" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
