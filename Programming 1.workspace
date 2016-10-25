@@ -23,8 +23,13 @@
   <Project Name="Hour20_Q1" Path="Hour20_Q1/Hour20_Q1.project" Active="No"/>
   <Project Name="Hour20_Q2" Path="Hour20_Q2/Hour20_Q2.project" Active="No"/>
   <Project Name="CommandLineInput" Path="CommandLineInput/CommandLineInput.project" Active="No"/>
-  <Project Name="Hour21" Path="Hour21/Hour21.project" Active="Yes"/>
-  <Project Name="Hour22" Path="Hour22/Hour22.project"/>
+  <Project Name="Hour21" Path="Hour21/Hour21.project" Active="No"/>
+  <Project Name="Hour22" Path="Hour22/Hour22.project" Active="No"/>
+  <Project Name="Hour22_Q1" Path="Hour22_Q1/Hour22_Q1.project" Active="No"/>
+  <Project Name="Hour16_Q1" Path="Hour16_Q1/Hour16_Q1.project" Active="No"/>
+  <Project Name="Hour16_Q2" Path="Hour16_Q2/Hour16_Q2.project" Active="No"/>
+  <Project Name="Hour16_Q3" Path="Hour16_Q3/Hour16_Q3.project" Active="No"/>
+  <Project Name="Hour16_Q4" Path="Hour16_Q4/Hour16_Q4.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -53,6 +58,11 @@
       <Project Name="CommandLineInput" ConfigName="Debug"/>
       <Project Name="Hour21" ConfigName="Debug"/>
       <Project Name="Hour22" ConfigName="Debug"/>
+      <Project Name="Hour22_Q1" ConfigName="Debug"/>
+      <Project Name="Hour16_Q1" ConfigName="Debug"/>
+      <Project Name="Hour16_Q2" ConfigName="Debug"/>
+      <Project Name="Hour16_Q3" ConfigName="Debug"/>
+      <Project Name="Hour16_Q4" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -81,6 +91,11 @@
       <Project Name="CommandLineInput" ConfigName="Release"/>
       <Project Name="Hour21" ConfigName="Release"/>
       <Project Name="Hour22" ConfigName="Release"/>
+      <Project Name="Hour22_Q1" ConfigName="Release"/>
+      <Project Name="Hour16_Q1" ConfigName="Release"/>
+      <Project Name="Hour16_Q2" ConfigName="Release"/>
+      <Project Name="Hour16_Q3" ConfigName="Release"/>
+      <Project Name="Hour16_Q4" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
