@@ -29,7 +29,16 @@
   <Project Name="Hour16_Q1" Path="Hour16_Q1/Hour16_Q1.project" Active="No"/>
   <Project Name="Hour16_Q2" Path="Hour16_Q2/Hour16_Q2.project" Active="No"/>
   <Project Name="Hour16_Q3" Path="Hour16_Q3/Hour16_Q3.project" Active="No"/>
-  <Project Name="Hour16_Q4" Path="Hour16_Q4/Hour16_Q4.project" Active="Yes"/>
+  <Project Name="Hour16_Q4" Path="Hour16_Q4/Hour16_Q4.project" Active="No"/>
+  <Project Name="Hour17_Q1" Path="Hour17_Q1/Hour17_Q1.project" Active="No"/>
+  <Project Name="Hour17_Q2" Path="Hour17_Q2/Hour17_Q2.project" Active="No"/>
+  <Project Name="Hour17_Q3" Path="Hour17_Q3/Hour17_Q3.project" Active="No"/>
+  <Project Name="Hour17_Q4" Path="Hour17_Q4/Hour17_Q4.project" Active="No"/>
+  <Project Name="Hour18_Q1" Path="Hour18_Q1/Hour18_Q1.project"/>
+  <Project Name="Hour23_Q1" Path="Hour23_Q1/Hour23_Q1.project" Active="No"/>
+  <Project Name="Hour23_Q2" Path="Hour23_Q2/Hour23_Q2.project"/>
+  <Project Name="hour23_Q3" Path="hour23_Q3/hour23_Q3.project" Active="No"/>
+  <Project Name="hour23_Q4" Path="hour23_Q4/hour23_Q4.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -63,6 +72,15 @@
       <Project Name="Hour16_Q2" ConfigName="Debug"/>
       <Project Name="Hour16_Q3" ConfigName="Debug"/>
       <Project Name="Hour16_Q4" ConfigName="Debug"/>
+      <Project Name="Hour17_Q1" ConfigName="Debug"/>
+      <Project Name="Hour17_Q2" ConfigName="Debug"/>
+      <Project Name="Hour17_Q3" ConfigName="Debug"/>
+      <Project Name="Hour17_Q4" ConfigName="Debug"/>
+      <Project Name="Hour18_Q1" ConfigName="Debug"/>
+      <Project Name="Hour23_Q1" ConfigName="Debug"/>
+      <Project Name="Hour23_Q2" ConfigName="Debug"/>
+      <Project Name="hour23_Q3" ConfigName="Debug"/>
+      <Project Name="hour23_Q4" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -96,6 +114,15 @@
       <Project Name="Hour16_Q2" ConfigName="Release"/>
       <Project Name="Hour16_Q3" ConfigName="Release"/>
       <Project Name="Hour16_Q4" ConfigName="Release"/>
+      <Project Name="Hour17_Q1" ConfigName="Release"/>
+      <Project Name="Hour17_Q2" ConfigName="Release"/>
+      <Project Name="Hour17_Q3" ConfigName="Release"/>
+      <Project Name="Hour17_Q4" ConfigName="Release"/>
+      <Project Name="Hour18_Q1" ConfigName="Release"/>
+      <Project Name="Hour23_Q1" ConfigName="Release"/>
+      <Project Name="Hour23_Q2" ConfigName="Release"/>
+      <Project Name="hour23_Q3" ConfigName="Release"/>
+      <Project Name="hour23_Q4" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
